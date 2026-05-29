@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvecrypt",
+        "uuid": 47662968,
+        "checksum": "r6r6xl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
